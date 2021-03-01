@@ -1,3 +1,5 @@
+#It's a fork of https://github.com/levindabhi/U-2-Net with CPU support.
+
 # U^2-Net (U square net)
 
 The code for our newly accepted paper **U^2-Net (U square net)** in Pattern Recognition 2020:
