@@ -1,4 +1,4 @@
-#It's a fork of https://github.com/levindabhi/U-2-Net with CPU support.
+# It's a fork of https://github.com/levindabhi/U-2-Net with CPU support.
 
 # U^2-Net (U square net)
 
